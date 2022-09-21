@@ -1,4 +1,4 @@
-<p>Aparecida nutrição é um projeto feito utilizando apenas JS puro que calcula os dados do usuário e calcula seu IMC. Neste projeto também há uma
+<p>Aparecida nutrição é um projeto feito utilizando apenas JS puro que pega seus dados e calcula seu IMC. Neste projeto também há uma
 busca de "pacientes" em uma API disponibilizada, e a exibição na tela.</p>
 <ul>
   <li>
